@@ -23,7 +23,7 @@
   <img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SandeepKumarSha&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 </p>
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
