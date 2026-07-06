@@ -1,5 +1,10 @@
 # 💫 About Me:
-* 🔭 **Currently working on:** AI/ML and Full-Stack projects<br>* 🌱 **Currently learning:** Advanced Machine Learning, React, and FastAPI<br>* 👯 **Looking to collaborate on:** Open-source AI/ML and Python projects<br>* 🤝 **Looking for help with:** System Design and scalable backend development<br>* 💬 **Ask me about:** Python, Flask, Machine Learning, and Web Development<br>* ⚡ **Fun fact:** I enjoy building projects more than watching tutorials.<br>
+- 🔭 **Currently working on:** Building AI-powered applications and machine learning projects
+- 🌱 **Currently learning:** Advanced Machine Learning, Deep Learning, and MLOps
+- 👯 **Looking to collaborate on:** AI/ML, Data Science, and open-source Python projects
+- 🤝 **Looking for help with:** Model deployment, MLOps, and scalable AI systems
+- 💬 **Ask me about:** Python, Machine Learning, Data Analysis, and Git
+- ⚡ **Fun fact:** Every project I build teaches me something new—and that's what keeps me coding.<br>
 
 
 ## 🌐 Socials:
