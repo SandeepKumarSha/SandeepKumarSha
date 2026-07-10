@@ -11,7 +11,8 @@ Overview
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=520&height=30&lines=AI+%2F+ML+Developer+%F0%9F%A7%A0;Python+Enthusiast+%F0%9F%90%8D;Building+Intelligent+Apps+with+AI+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
----
+
+
 ## 💡 About Me
 <table border="0">
 <tr>
@@ -34,13 +35,15 @@ Overview
 </td>
 </tr>
 </table>
----
+
+
 ## 🔗 Connect with me:
 <p align="left">
   <a href="mailto:shasandeepkumar.333@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail" width="40" height="40" /></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/SandeepKumarSha" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin" width="40" height="40" /></a>&nbsp;&nbsp;
 </p>
----
+
+
 ## 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/></a>&nbsp;
@@ -63,7 +66,8 @@ Overview
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="42" height="42"/></a>&nbsp;
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/></a>
 </p>
----
+
+
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandeepKumarSha&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="48%" />
