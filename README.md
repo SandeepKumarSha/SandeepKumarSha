@@ -1,6 +1,3 @@
-Overview
-
-
 
 <!-- Banner -->
 <p align="center">
