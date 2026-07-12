@@ -23,7 +23,7 @@
 
 - 📫 How to reach me: **[shasandeepkumar.333@gmail.com](mailto:shasandeepkumar.333@gmail.com)**
 
-- 📄 Know more about my experience: **[My Resume](https://drive.google.com/file/d/1u5UTy_-JQAx7WruRJTx2HCVnrjVS07Nw/view?usp=drive_link)**
+- 📄 Know more about my experience: **[My Resume](https://docs.google.com/document/d/19umjpA6zm89dXeGhUrfhBa89vPRlvGKnJ53J3SK8p7o/edit?tab=t.0)**
 
 - ⚡ Fun fact: **I love turning data into intelligent applications and solving real-world problems with AI**
 </td>
@@ -69,5 +69,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandeepKumarSha&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="48%" />
 </p>
-
-  
