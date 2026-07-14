@@ -25,6 +25,8 @@
 
 - 📄 Know more about my experience: **[My Resume](https://docs.google.com/document/d/19umjpA6zm89dXeGhUrfhBa89vPRlvGKnJ53J3SK8p7o/edit?tab=t.0)**
 
+-  🌐 Explore my portfolio: [My Portfolio](https://portfolio-sandeepkumarsha.vercel.app)
+
 - ⚡ Fun fact: **I love turning data into intelligent applications and solving real-world problems with AI**
 </td>
 <td valign="top" width="45%" align="center">
